@@ -3,7 +3,7 @@
 
 ## 🖼️ SCREENSHOT
 
-### Descktop
+### Desktop
 
 ![SCREENSHOT](https://github.com/Parolar007/Card-View-Product/blob/main/Descktop.png?raw=true)
 
@@ -21,5 +21,5 @@
 
 ### 🧩 Semântica: Trabalhar a semântica do HTML foi um dos principais objetivos. Estruturas bem definidas permitem que o conteúdo seja compreensível e funcional mesmo sem CSS, ajudando na compatibilidade com navegadores antigos ou em problemas de carregamento.
 
-
 ##### 💡 Esse projeto foi disponibilizado pelo FRONTEND MENTOR com a finalidade de desenvolver habilidades básicas de html e css.
+
